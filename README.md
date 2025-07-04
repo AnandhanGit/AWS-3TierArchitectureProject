@@ -50,9 +50,9 @@ Task: Instead of three Security Group create Five Security Groups
 ## 10. Command to Login to App Server
 
 ```bash
-vi LearnWithMithran.pem
-chmod 400 LearnWithMithran.pem
-ssh -i LearnWithMithran.pem ec2-user@10.0.4.162
+vi Anandhan.pem
+chmod 400 Anandhan.pem
+ssh -i Anandhan.pem ec2-user@10.0.4.162
 ```
 
 ## 11. Setup Database
